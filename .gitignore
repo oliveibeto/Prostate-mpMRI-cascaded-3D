@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+venv/
+.venv/
+cache/
+checkpoints/
+nifti_output/
+*.pth
+*.pt
+*.nii
+*.nii.gz
+*.csv
+!stage2_labels_check.csv
